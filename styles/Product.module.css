@@ -1,0 +1,15 @@
+.titleBlock {
+    padding: 10px 0px;
+    display: flex;
+    cursor: pointer;
+}
+
+.productsId {
+    margin: 0px 10px;
+}
+
+.paper {
+    margin-left: 10px;
+    text-align: center;
+    padding-top: 10px;
+}
